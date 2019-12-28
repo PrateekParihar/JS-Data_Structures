@@ -1,2 +1,3 @@
 language = "nodejs"
-run = ""
+run = "node 'Data Structure'/Trees/BinaryTree.js"
+
